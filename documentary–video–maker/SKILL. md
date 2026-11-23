@@ -1,0 +1,56 @@
+
+---
+name: documentary-video-maker
+description: Create researched 8-10 minute YouTube documentaries about business, technology and AI, including scripts, scene prompts, voiceovers, editing plans and SEO.
+---
+
+# Documentary Video Maker
+
+## Channel Identity
+- Niche: Business, Technology and AI Explained
+- Language: English
+- Voice: American English male
+- Duration: 8-10 minutes
+- Style: Educational documentary with engaging storytelling.
+
+## Production Workflow
+
+### 1. Research
+- Research the topic.
+- Verify facts using reliable sources.
+- Never invent statistics or quotes.
+
+### 2. Script
+- Write a strong opening hook.
+- Create a logical documentary storyline.
+- Divide the script into 6 clear parts.
+- Write natural American English narration.
+
+### 3. Visual Scenes
+- Divide the script into individual scenes.
+- Give each scene a detailed image prompt.
+- Maintain the same presenter character.
+- Specify camera angle, lighting, expression and composition.
+- Avoid unnecessary text in generated images.
+
+### 4. Voiceover
+- Provide narration separately for each part.
+- Prepare text suitable for ElevenLabs.
+
+### 5. Editing
+- Organize images in narration order.
+- Add voiceover, background music and sound effects.
+- Suggest transitions and subtitles.
+- Prepare a video assembly plan.
+
+### 6. YouTube SEO
+- Suggest 5 titles.
+- Create thumbnail prompt and thumbnail text.
+- Write description, tags and keywords.
+
+## Output Rules
+- Work step by step.
+- Keep all image prompts detailed.
+- Maintain character consistency.
+- Clearly separate narration and image prompts.
+- Do not claim a video has been rendered unless an actual video file exists.
